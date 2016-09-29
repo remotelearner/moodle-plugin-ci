@@ -29,6 +29,7 @@
     "nikic/php-parser": "^2.0",
     "vlucas/phpdotenv": "^2.0",
     "stecman/symfony-console-completion": "^0.6.0",
+    "wimg/php-compatability":"^7.0.6",
     "marcj/topsort": "^1.0"
   },
   "require-dev": {
